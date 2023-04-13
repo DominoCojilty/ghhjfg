@@ -1,0 +1,33 @@
+h1{
+padding: 20px;
+font-size: medium;
+background-size: cover;
+background-attachment: fixed;
+margin: 50px 875px;
+font-size: 25px;
+padding: 20px;
+box-shadow: 0px 0px 100px #b80774;
+}
+h2{
+padding: 20px;
+font-size: medium;
+background-size: cover;
+background-attachment: fixed;
+margin: 50px 810px;
+font-size: 25px;
+padding: 20px;
+box-shadow: 0px 0px 100px #b80774;
+}
+body{
+  background: #FF69B4;
+}
+h3{
+padding: 20px;
+font-size: medium;
+background-size: cover;
+background-attachment: fixed;
+margin: 50px 80px;
+font-size: 25px;
+padding: 20px;
+box-shadow: 0px 0px 100px #b80774;
+}
